@@ -1,5 +1,3 @@
-Banu Ionut-Sebastian 
-331AA
 
 -----------baggage_drop-------------
 
